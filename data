@@ -1,0 +1,7 @@
+the data will be fetched and used using foursquare api.
+the various location endpoints will help collect data of a particular area.
+this data will be compared to the data of another area to find similarities or differences.
+the data will be stored using loops and storing in a json format.
+google apis might also be used in case of further exploration.
+
+
